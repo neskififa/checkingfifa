@@ -11,7 +11,7 @@ from typing import Dict, List
 import time
 
 URL = "https://www.aceodds.com/pt/bet365-transmissao-ao-vivo.html"
-URL_RESULTADOS = "https://www.fifastats.net/resultados"
+URL_RESULTADOS = "https://betsapi.com/e/"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
